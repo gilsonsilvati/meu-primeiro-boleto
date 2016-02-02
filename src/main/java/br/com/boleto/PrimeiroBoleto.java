@@ -1,4 +1,4 @@
-package com.algaworks.boleto;
+package br.com.boleto;
 
 import java.awt.Desktop;
 import java.io.File;

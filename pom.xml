@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.algaworks.workshop</groupId>
+	<groupId>br.com.boleto</groupId>
 	<artifactId>meu-primeiro-boleto</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
